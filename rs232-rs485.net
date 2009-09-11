@@ -1,0 +1,20 @@
++12V	CONN3-1 C10-1 C9-1 U3-1 CONN2-8 CONN2-7 
+unnamed_net17	CONN2-6 CONN2-5 R5-2 U2-7 J3-1 
+unnamed_net16	R5-1 J2-2 
+unnamed_net15	J1-1 R4-1 
+unnamed_net14	J3-2 R3-1 
+unnamed_net13	CONN2-4 CONN2-3 U2-6 R4-2 R3-2 
+unnamed_net12	R1-1 Q1-2 
+unnamed_net11	U2-2 U2-3 R2-2 Q1-3 
++5V	C12-1 C11-1 U3-3 J1-2 C8-1 U2-8 Q1-1 C7-1 C4-1 U1-16 
+GND	CONN3-2 C12-2 C11-2 C10-2 C9-2 U3-2 CONN2-2 CONN2-1 J2-1 U2-4 C8-2 C3-1 R2-1 C4-2 C7-2 U2-5 C2-2 CONN1-5 U1-15 
+unnamed_net10	C1-1 U1-1 
+unnamed_net9	CONN1-2 U1-14 
+unnamed_net8	CONN1-3 U1-13 
+unnamed_net7	R1-2 U1-12 
+unnamed_net6	U2-1 U1-11 
+unnamed_net5	C3-2 U1-6 
+unnamed_net4	C5-2 U1-5 
+unnamed_net3	C5-1 U1-4 
+unnamed_net2	C1-2 U1-3 
+unnamed_net1	C2-1 U1-2 
